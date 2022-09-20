@@ -1,6 +1,8 @@
 # Please Note:
 I am Sean Llera
+
 This repo is a clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template
+
 This Repo is being used for ECE444 assignments.
 
 # Assignment 1: Education Pathway
